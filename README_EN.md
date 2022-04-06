@@ -4,7 +4,7 @@ git remote -v
 
 git remote add origin https://github.com/yjwyjw520520/mini-vue.git
 
-git push -u origin master
+git push -u origin master     提交代码
 
 $ git fetch upstream   第一步
 
